@@ -165,8 +165,29 @@ print(z)
 [11-adding-tables](#11-adding-tables)\
 [12-contants](#12-contants)\
 [13-install-extension](#13-install-extension)
+[14-how to color a text](#14-how-to-color-a-text)\
+[15-writing math equation](#15-writing-math-equation)
 
 # 13-Install extension
+ ## markdown all in one extension
+ ## markdown pdf
+ ## markdown limits
+
+# 14-how to color a text
+this is the text and now give it color
+
+<span style="color:red">
+"this is the text and now give it color"
+</span>
+
+# 15-writing math equation
+> in the line
+> $this_{is}^{line}$
+
+## so this means that when ever we want to write any math equation or any math words we will put this dollor sign ($) 
+
+
+
 
 
 
